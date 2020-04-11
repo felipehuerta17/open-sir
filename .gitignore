@@ -19,6 +19,7 @@ __pycache__/
 .Python
 build/
 _build/
+doc/build/
 develop-eggs/
 dist/
 downloads/
