@@ -103,7 +103,7 @@ The output of opensir-cli is a .csv file with the output of the model.
 
 You can replicate the predictions of the CLI with the following python script:
 ```python
-from models import SIR
+from opensir.models import SIR
 my_sir = SIR() # Initialize an empty SIR model
 params = [0.95, 0.38] # Define model parameters
 w0 = [341555, 445, 0] # Define initial conditions
