@@ -199,8 +199,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/jia200x"><img src="https://avatars3.githubusercontent.com/u/1260616?v=4" width="100px;" alt=""/><br /><sub><b>José Alamos</b></sub></a><br /><a href="https://github.com/open-sir/open-sir/commits?author=jia200x" title="Code">💻</a> <a href="https://github.com/open-sir/open-sir/commits?author=jia200x" title="Documentation">📖</a> <a href="#maintenance-jia200x" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="http://www.imperial.ac.uk/people/f.huerta-perez17"><img src="https://avatars3.githubusercontent.com/u/33637198?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Huerta</b></sub></a><br /><a href="https://github.com/open-sir/open-sir/commits?author=felipehuerta17" title="Code">💻</a> <a href="https://github.com/open-sir/open-sir/commits?author=felipehuerta17" title="Documentation">📖</a> <a href="#tutorial-felipehuerta17" title="Tutorials">✅</a></td>
+    <td align="center"><a href="https://github.com/jia200x"><img src="https://avatars3.githubusercontent.com/u/1260616?v=4" width="100px;" alt=""/><br /><sub><b>José Alamos</b></sub></a><br /><a href="https://github.com/felipehuerta17/open-sir/commits?author=jia200x" title="Code">💻</a> <a href="https://github.com/felipehuerta17/open-sir/commits?author=jia200x" title="Documentation">📖</a> <a href="#maintenance-jia200x" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://www.imperial.ac.uk/people/f.huerta-perez17"><img src="https://avatars3.githubusercontent.com/u/33637198?v=4" width="100px;" alt=""/><br /><sub><b>Felipe Huerta</b></sub></a><br /><a href="https://github.com/felipehuerta17/open-sir/commits?author=felipehuerta17" title="Code">💻</a> <a href="https://github.com/felipehuerta17/open-sir/commits?author=felipehuerta17" title="Documentation">📖</a> <a href="#tutorial-felipehuerta17" title="Tutorials">✅</a></td>
   </tr>
 </table>
 
